@@ -1,0 +1,25 @@
+var files_dup =
+[
+    [ "Debug", "dir_faa8bedbcbaa373d57b77d9219afda20.html", "dir_faa8bedbcbaa373d57b77d9219afda20" ],
+    [ "button.c", "button_8c_source.html", null ],
+    [ "button.h", "button_8h_source.html", null ],
+    [ "ir.c", "ir_8c.html", "ir_8c" ],
+    [ "ir.h", "ir_8h.html", "ir_8h" ],
+    [ "lcd.c", "lcd_8c_source.html", null ],
+    [ "lcd.h", "lcd_8h_source.html", null ],
+    [ "object_detect.c", "object__detect_8c.html", "object__detect_8c" ],
+    [ "object_detect.h", "object__detect_8h.html", "object__detect_8h" ],
+    [ "open_interface.c", "open__interface_8c_source.html", null ],
+    [ "open_interface.h", "open__interface_8h_source.html", null ],
+    [ "ping.c", "ping_8c.html", "ping_8c" ],
+    [ "ping.h", "ping_8h.html", "ping_8h" ],
+    [ "project_code.c", "project__code_8c.html", "project__code_8c" ],
+    [ "servo.c", "servo_8c.html", "servo_8c" ],
+    [ "servo.h", "servo_8h.html", "servo_8h" ],
+    [ "timer.c", "timer_8c_source.html", null ],
+    [ "timer.h", "timer_8h_source.html", null ],
+    [ "tm4c123gh6pm.h", "tm4c123gh6pm_8h_source.html", null ],
+    [ "tm4c123gh6pm_startup_ccs.c", "tm4c123gh6pm__startup__ccs_8c_source.html", null ],
+    [ "uart.c", "uart_8c.html", "uart_8c" ],
+    [ "uart.h", "uart_8h.html", "uart_8h" ]
+];
